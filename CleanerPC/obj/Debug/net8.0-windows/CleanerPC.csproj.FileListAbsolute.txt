@@ -1,0 +1,16 @@
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\bin\Debug\net8.0-windows\CleanerPC.exe
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\bin\Debug\net8.0-windows\CleanerPC.deps.json
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\bin\Debug\net8.0-windows\CleanerPC.runtimeconfig.json
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\bin\Debug\net8.0-windows\CleanerPC.dll
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\bin\Debug\net8.0-windows\CleanerPC.pdb
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.Main.resources
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.csproj.GenerateResource.cache
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.AssemblyInfoInputs.cache
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.AssemblyInfo.cs
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.csproj.CoreCompileInputs.cache
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.dll
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\refint\CleanerPC.dll
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.pdb
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\CleanerPC.genruntimeconfig.cache
+C:\Users\Stephanyy\Desktop\Stephany\CleanerPC\CleanerPC\obj\Debug\net8.0-windows\ref\CleanerPC.dll
